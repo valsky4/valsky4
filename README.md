@@ -16,6 +16,7 @@ Additionally, I'm currently exploring the field of **Cybersecurity**, expanding 
   <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" width="60px">
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/appium.svg" width="45px">
   <img src="https://behave.readthedocs.io/en/stable/_images/behave_logo1.png" width="55px">
+  <img src="https://locust.io/static/img/og-image.png" width="100px">
 </div>
 
 ## 📈 My GitHub stats
