@@ -20,8 +20,6 @@ MCP (Model Context Protocol): Creating context-aware test systems that adapt dyn
 
 Claude Code & AI Agents: Leveraging AI-assisted coding for test reasoning, scenario creation, and live debugging.
 
-Cybersecurity: Expanding into automation for security validation, vulnerability detection, and threat modeling.
-
 🧩 My Current Stack
 
 Languages: Python, TypeScript, JavaScript
